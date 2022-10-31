@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a 1st year Computer Science and Engineering Major at UCI
+
+Check my [LinkedIn](www.linkedin.com/in/mahad-afridi-248b91208)
+
 <!--
 **mahadaafridi/mahadaafridi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

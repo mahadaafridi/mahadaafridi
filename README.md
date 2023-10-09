@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a 1st year Computer Science and Engineering Major at UCI
+I'm a 2nd year Computer Science student at UCI
 
 Check my [LinkedIn](www.linkedin.com/in/mahad-afridi-248b91208)
 

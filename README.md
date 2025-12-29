@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a Data Science Intern at Recorded Future, where I'm building scalable data pipelines to support threat intelligence and real-time risk scoring. I'm also deeply interested in machine learning, particularly its applications in reinforcement learning and natural language processing. I'm always open to collaborating on meaningful, user-focused projects that create real-world impact.
+I'm currently working as a Software Engineering Intern at Recorded Future, where I'm building scalable data pipelines to support threat intelligence and real-time risk scoring. I'm also deeply interested in machine learning, particularly its applications in reinforcement learning and natural language processing. I'm always open to collaborating on meaningful, user-focused projects that create real-world impact.
 
 
 ## 🌐 Socials:
